@@ -1,0 +1,16 @@
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\obj\Debug\net5.0\TP3_Final.csprojAssemblyReference.cache
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\obj\Debug\net5.0\TP3_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\obj\Debug\net5.0\TP3_Final.AssemblyInfoInputs.cache
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\obj\Debug\net5.0\TP3_Final.AssemblyInfo.cs
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\obj\Debug\net5.0\TP3_Final.csproj.CoreCompileInputs.cache
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\bin\Debug\net5.0\TP3_Final.exe
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\bin\Debug\net5.0\TP3_Final.deps.json
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\bin\Debug\net5.0\TP3_Final.runtimeconfig.json
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\bin\Debug\net5.0\TP3_Final.runtimeconfig.dev.json
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\bin\Debug\net5.0\TP3_Final.dll
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\bin\Debug\net5.0\ref\TP3_Final.dll
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\bin\Debug\net5.0\TP3_Final.pdb
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\obj\Debug\net5.0\TP3_Final.dll
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\obj\Debug\net5.0\ref\TP3_Final.dll
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\obj\Debug\net5.0\TP3_Final.pdb
+C:\Users\adaconceicao\source\repos\TP3_Final\TP3_Final\obj\Debug\net5.0\TP3_Final.genruntimeconfig.cache
